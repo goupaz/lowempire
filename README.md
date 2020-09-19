@@ -3,12 +3,9 @@ Low Level Empire | This channel was created for Algorithms, Compilers, OS, Hardw
 
 ## join IRC channel
 https://webchat.freenode.net/?channel=#lowempire
-
 _there is no registration requirement feel free to join and ask/share_
 
 ### Related repositories
 https://github.com/goupaz/lowlevel
-
 https://github.com/goupaz/leet
-
 https://github.com/goupaz/algo
