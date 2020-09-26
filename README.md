@@ -5,6 +5,10 @@ Low Level Empire | This channel was created for Algorithms, Compilers, OS, Hardw
 https://webchat.freenode.net/?channel=#lowempire  
 _there is no registration requirement feel free to join and ask/share_
 
+## Mailing list
+https://www.freelists.org/archive/goup/  
+For e.g in case want to open new discussion about deliceos use this syntax: [deliceos] PMI interrupt freezing.
+  
 ### Related repositories
 https://github.com/goupaz/lowlevel  
 https://github.com/goupaz/leet  
